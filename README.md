@@ -2,7 +2,8 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-This project prompts the user to either create a new vehicle or select an existing vehicle. After going through the creation or selection process, the user is able to perform certain actions with the selected vehicle.
+This project prompts the user to either create a new vehicle or select an existing vehicle. After going through the creation or selection process, the user can perform certain actions with the selected vehicle.
+https://www.loom.com/share/2be841cbdeed4bf2970040b7000f4821?sid=89f6b26e-cd42-4c7d-ba6d-cbc78baff3d9
 
 ## Table of Contents
 
@@ -19,7 +20,8 @@ Clone Repo then NPM Install
 
 ## Usage
 
-This application is a vehical builder, used to create vehical in your terminal.
+npm start to run this application.
+This application is a vehicle builder, used to create vehicles in your terminal.
 
 ## How to Contribute
 
